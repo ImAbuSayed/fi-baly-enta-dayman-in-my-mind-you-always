@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> import os
+> import sys
+> def main():
+> print.. "Done"..
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
