@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 26, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/fi-baly-enta-dayman-in-my-mind-you-always/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Music Rights & Licensing for Fi Baly Enta Dayman – In My Mind, You Always](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Commercial Licensing for Fi Baly Enta Dayman – In My Mind, You Always](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
