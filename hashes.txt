@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Fi Baly Enta Dayman – In My Mind, You Always
+
+This log tracks the cryptographic history and versioning for the song **Fi Baly Enta Dayman – In My Mind, You Always** (fi-baly-enta-dayman-in-my-mind-you-always).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T08:32:15.388911 | `v1` | `ca30e8b714d6d69a441f5858beb17848d0e756daa691de9cf7cbb7ddd0e1b02c` | `1ee20ce2d0c903d658fe53867fae272deb52c73d8c3db5a9c3f6152b3e89d7ad` | `2026-05-09_fi-baly-enta-dayman-in-my-mind-you-always-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
